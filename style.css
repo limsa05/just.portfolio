@@ -1,0 +1,103 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Preahvihear&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Preahvihear", sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #11071f;
+}
+
+nav {
+  width: 100%;
+  padding: 15px 500px;
+  background-color: #1a0b2e;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+nav ul {
+  display: flex;
+}
+
+nav ul li {
+  list-style: none;
+  color: white;
+  margin-left: 150px;
+}
+
+.head-part {
+  margin: 0 500px;
+  margin-top: 100px;
+}
+
+.head-part h1 {
+  color: white;
+  font-size: 50px;
+  letter-spacing: 3px;
+}
+
+.head-part p {
+  color: white;
+  font-size: 21px;
+  margin-bottom: 70px;
+}
+
+.facebook {
+  color: #1877f2;
+}
+
+.work-ex {
+  margin-top: 150px;
+  margin-left: 500px;
+  color: white;
+}
+
+.skills {
+  display: flex;
+  justify-content: center;
+  margin: 150px 0;
+}
+
+.box {
+  margin: 0 500px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 100px  ;
+}
+
+.box1 p {
+  color: #9857d3;
+}
+
+.box1 h1 {
+  color: white;
+}
+
+.blure {
+  background-color: rgba(105, 59, 147, 0.4);
+  backdrop-filter: blur(5px);
+  padding: 5px 5px;
+  border-radius: 10px;
+}
+
+.blure p {
+  color: white;
+}
+
+.box3 {
+  width: 600px;
+}
+
+.box3 h1 {
+  color: white;
+}
+
+.box3 p {
+  color: #9857d3;
+}
+ */
